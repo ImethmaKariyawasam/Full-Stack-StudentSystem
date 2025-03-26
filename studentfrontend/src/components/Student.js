@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
-import { Button, colors, Container, Paper } from '@mui/material';
+import { Button,  Container, Paper } from '@mui/material';
 
 export default function Student() {
     const paperStyle={padding:'50px 20px', width: 600, margin:"20px auto"}
